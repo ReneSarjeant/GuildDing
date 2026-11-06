@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: GuildDing
+## Notes: Announces level-ups as René in guild chat
+## Author: René
+## Version: 1.0.0
+
+GuildDing.lua
