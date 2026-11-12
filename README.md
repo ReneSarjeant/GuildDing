@@ -5,7 +5,7 @@ A tiny World of Warcraft Forever addon that automatically announces level-ups in
 Example:
 
 ```text
-(René) Ding! Level 15!
+[René] Ding! Level 15!
 ```
 
 ## Installation
