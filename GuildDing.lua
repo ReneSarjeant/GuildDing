@@ -42,7 +42,7 @@ frame:SetScript("OnEvent", function(self, event, level)
     else
         announcement = announcements[choice]:format(level, zone)
     end
-    local message = "(René) " .. announcement
+    local message = "[René] " .. announcement
 
     if C_ChatInfo and C_ChatInfo.SendChatMessage then
         C_ChatInfo.SendChatMessage(message, "GUILD")
