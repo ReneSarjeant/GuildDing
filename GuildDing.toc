@@ -1,6 +1,6 @@
 ## Interface: 16001
 ## Title: GuildDing
-## IconTexture: Interface\Icons\INV_Misc_QuestionMark
+## IconTexture: Interface\Icons\INV_Misc_Bell_01
 ## Notes: Announces level-ups as René in guild chat
 ## Author: René
 ## Version: 1.0.0
